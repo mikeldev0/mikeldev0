@@ -26,14 +26,6 @@ Soy Desarrollador de Aplicaciones Multiplataforma enfocado en crear soluciones e
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeldev0&show_icons=true&theme=transparent&rank_icon=github&count_private=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeldev0&layout=compact&theme=transparent&text_color=ffffff&title_color=ffffff&hide_border=true&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=transparent&stroke=ffffff&text=ffffff&ring=ffffff&fire=ffffff" alt="GitHub Streak" />
 </p>
 
