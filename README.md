@@ -26,13 +26,13 @@ Soy Desarrollador de Aplicaciones Multiplataforma enfocado en crear soluciones e
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeldev0&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeldev0&show_icons=true&theme=transparent&rank_icon=github&count_private=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeldev0&layout=compact&theme=radical&hide=html,css" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeldev0&layout=compact&theme=transparent&hide_langs=html,css&text_color=ffffff&title_color=ffffff" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=transparent&stroke=ffffff&text=ffffff&ring=ffffff&fire=ffffff" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contacto
