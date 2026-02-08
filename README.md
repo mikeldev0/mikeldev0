@@ -37,8 +37,8 @@ Soy Desarrollador de Aplicaciones Multiplataforma enfocado en crear soluciones e
 
 ## 📫 Contacto
 
-- Twitter: [@MikelEcheve](https://twitter.com/mikelecheve)
-- Correo: [mikel@mikeldev.com](mailto:mikel@mikeldev.com)
+- <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X" /> [@MikelEcheve](https://x.com/mikelecheve)
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /> [mikel@mikeldev.com](mailto:mikel@mikeldev.com)
 
 ---
 
