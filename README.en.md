@@ -23,6 +23,18 @@ I am a cross-platform application developer focused on creating efficient and mo
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
+## 📊 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeldev0&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Mikel's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeldev0&layout=compact&theme=dracula&hide_langs=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=dracula" alt="GitHub Streak" />
+</p>
+
 ## 📫 Contact
 
 - Twitter: [@MikelEcheve](https://twitter.com/mikelecheve)
@@ -32,16 +44,6 @@ I am a cross-platform application developer focused on creating efficient and mo
 
 - **[CUATROVIENTOS IDIOMAS WEBSITE](https://github.com/mikeldev0/Web-CuatrovientosIdiomas)**: A project containing the source code for the Cuatrovientos language school website.
 - **[WORDLE](https://github.com/mikeldev0/Wordle)**: The classic word guessing game, developed in **Visual Basic**.
-
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeldev0&theme=dark&show_icons=true&locale=en&layout=compact" alt="mikeldev0" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeldev0&theme=dark&show_icons=true&locale=en" alt="mikeldev0" />
-</p>
 
 ---
 
