@@ -26,13 +26,13 @@ I am a cross-platform application developer focused on creating efficient and mo
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeldev0&show_icons=true&theme=transparent&rank_icon=github&count_private=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="Mikel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeldev0&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeldev0&layout=compact&theme=transparent&hide_langs=html,css&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeldev0&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=transparent&stroke=ffffff&text=ffffff&ring=ffffff&fire=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 📫 Contact
