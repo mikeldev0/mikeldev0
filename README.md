@@ -1,6 +1,6 @@
 # Hi, I'm Mikel 👋
 
-Multiplatform developer building modern software with a focus on **performance, usability, automation, and real-world value**.
+Software developer focused on building fast, useful, and well-designed products across web, automation, and AI workflows.
 
 I work mainly with **Python, TypeScript, Django, Next.js, and React**, and I’m especially interested in **AI tooling, developer experience, automation, and privacy-first products**.
 
