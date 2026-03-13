@@ -1,39 +1,69 @@
-[<img src="https://img.shields.io/badge/English-🇬🇧-brightgreen" alt="English" />](./README.en.md)
+# Hi, I'm Mikel 👋
 
-# 👋 ¡Hola! Soy Mikel 🚀
+Multiplatform developer building modern software with a focus on **performance, usability, automation, and real-world value**.
 
-Soy Desarrollador de Aplicaciones Multiplataforma enfocado en crear soluciones eficientes y modernas. Me apasiona aprender y mejorar mis habilidades en diferentes tecnologías para construir herramientas que aporten valor real.
+I work mainly with **Python, TypeScript, Django, Next.js, and React**, and I’m especially interested in **AI tooling, developer experience, automation, and privacy-first products**.
 
-## 🛠️ Habilidades y herramientas
+## What I build
 
-<img src="https://github.com/mikeldev0/mikeldev0/assets/38868773/d2b3ed0d-fefd-4a7f-b90e-8b06412fd239" align="right" width="300" alt="coding">
+- Full-stack applications with solid backend architecture
+- Clean APIs and scalable web platforms
+- Internal tools and automations that save real time
+- AI-powered workflows designed for practical use
 
-- **Tecnologías Principales**: Django (DRF), Next.js, React, TypeScript, Python
-- **Desarrollo Web & Frontend**: HTML5, CSS3, SASS, JavaScript, JQuery
-- **Infraestructura & Herramientas**: Docker, Git, GitHub, Linux (Fedora/Ubuntu)
-- **Bases de Datos**: PostgreSQL, SQLServer, SQLite, Realm (NoSQL)
-- **Otros Lenguajes & Scripting**: Bash, Batch, Java, C#, Visual Basic (.NET)
+## Current stack
+
+- **Backend:** Python, Django, Django REST Framework
+- **Frontend:** Next.js, React, TypeScript
+- **Infra & tooling:** Docker, Linux, Git, GitHub
+- **Data:** PostgreSQL, SQLite
+- **Focus areas:** Automation, AI workflows, developer tooling, privacy-first software
+
+## Philosophy
+
+I like building software that is:
+
+- **useful**
+- **fast**
+- **maintainable**
+- **clean by design**
+
+I care about products that solve real problems without unnecessary complexity.
+
+## Tech I use
 
 <p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="drf" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
 </p>
 
-## 📊 Estadísticas
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=transparent&stroke=ffffff&text=ffffff&ring=ffffff&fire=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeldev0&theme=transparent&stroke=ffffff&text=ffffff&ring=ffffff&fire=ffffff" alt="GitHub Streak" />
 </p>
 
-## 📫 Contacto
+## Connect
 
-- <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X" /> [@MikelEcheve](https://x.com/mikelecheve)
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /> [mikel@mikeldev.com](mailto:mikel@mikeldev.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/mikelecheve)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mikel@mikeldev.com)
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en echar un vistazo a mis repositorios y contribuciones. 😃
+I enjoy building software that feels simple on the surface and solid underneath.
